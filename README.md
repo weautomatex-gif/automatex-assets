@@ -1,0 +1,2 @@
+# automatex-assets
+automatex assets
